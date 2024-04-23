@@ -12,7 +12,7 @@ public class SpringbootJenkinsApplication {
     private static final Logger logger = LoggerFactory.getLogger(SpringJenkinsController.class);
 
     public static void main(String[] args) {
-        logger.info("Spring Boot Application Started in Main Method of SpringbootJenkinsApplication Class Demo Jenkins Pipeline");
+        logger.info("Spring Boot Application Started in Main Method of SpringbootJenkinsApplication Class Demo Jenkins Pipeline ");
         SpringApplication.run(SpringbootJenkinsApplication.class, args);
     }
 
